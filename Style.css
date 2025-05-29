@@ -1,16 +1,12 @@
 
 
-a:link {
-    color: rgb(192, 126, 40);
-}
+div{
 
-a:hover {
-    color: brown;
-    font-style: italic;
+    color: red;
+    background-color: blue;
+    padding:50px;
+    padding-right:20px;
+    border:10px solid;
+    margin: 0px
 
-}
-
-a:active {
-    font-size: large;
-    color: aquamarine;
 }
