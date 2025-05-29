@@ -12,6 +12,20 @@ div{
 }
 .co{
     display:flex;
-    background-color: aqua;
+    background-color:red;
+    justify-content: center;
+flex-direction: row;
     
+    
+
+}
+
+@media (max-width:500px){
+
+.co{
+
+    background-color: aquamarine;
+    flex-direction:column;
+}
+
 }
